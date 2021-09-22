@@ -4,4 +4,4 @@
 ＊スマホ対応はしていません
 
 web  
-https://furusetomoya.github.io/project2-Vending-Machine/
+https://tomo1818.github.io/project2-Vending-Machine/
